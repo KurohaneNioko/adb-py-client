@@ -16,6 +16,8 @@ python main.py
 
 4. Instructions are in the picture below.
 
+![image](https://raw.githubusercontent.com/KurohaneNioko/adb-py-client/master/UI.PNG)
+
 ## Attention
 
 1. Python package: adb_shell will open only 1 session for a device at a time and 
